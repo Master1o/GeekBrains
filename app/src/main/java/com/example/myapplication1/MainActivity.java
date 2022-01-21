@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             if (one == two) {
                 result.setText("Equal");
             } else {
-                result.setText("Not Equal");
+                result.setText("Not Equall");
             }
 
             }
